@@ -1,6 +1,4 @@
 
-
-
 # My own
 ._*
 env
@@ -9,6 +7,9 @@ __pycache__
 .DS_Store
 .cache
 .ipynb_checkpoints
+
+# C binary file (my own)
+tmp
 
 # Created by https://www.gitignore.io/api/c
 # Edit at https://www.gitignore.io/?templates=c
